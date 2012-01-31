@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'CoreDataExtensionTests' target in the 'CoreDataExtensionTests' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
